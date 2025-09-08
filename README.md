@@ -5,10 +5,13 @@
 🌍 Based in USA
 
 ---
+## 📊 GitHub Stats  
 
-### 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=sriabhinay556&theme=tokyonight&hide_border=false)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriabhinay556&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriabhinay556&layout=compact&theme=tokyonight)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sriabhinay556&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriabhinay556&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
+
+</div>
 
 ---
