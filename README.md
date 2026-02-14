@@ -9,9 +9,24 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sriabhinay556&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriabhinay556&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriabhinay556&show_icons=true&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriabhinay556&layout=compact&theme=tokyonight)
 
 </div>
 
 ---
+## 🛠️ Tech Stack
+
+- **Languages:** Python, Java, C++, JavaScript
+- **Security:** Cryptography, Network Security, Secure Coding
+- **AI/ML:** Machine Learning, Deep Learning, NLP
+
+---
+## 📫 Connect with Me
+
+- LinkedIn: [Your LinkedIn Profile]
+- Email: [Your Email]
+
+---
+
+⭐ Feel free to explore my repositories and reach out for collaborations!
