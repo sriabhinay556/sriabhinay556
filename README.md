@@ -9,10 +9,16 @@
 
 <div align="center">
 
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriabhinay556&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/sriabhinay556)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriabhinay556&layout=compact&theme=tokyonight&cache_seconds=1800)](https://github.com/sriabhinay556)
+[![GitHub Stats](https://github-readme-stats-tau-six-74.vercel.app/api?username=sriabhinay556&show_icons=true&theme=tokyonight)](https://github.com/sriabhinay556)
+
+[![Top Languages](https://github-readme-stats-tau-six-74.vercel.app/api/top-langs/?username=sriabhinay556&layout=compact&theme=tokyonight)](https://github.com/sriabhinay556)
 
 </div>
+```
+
+Test it by opening this in your browser first:
+```
+https://github-readme-stats-tau-six-74.vercel.app/api?username=sriabhinay556&show_icons=true&theme=tokyonight
 
 ---
 ## 🛠️ Tech Stack
